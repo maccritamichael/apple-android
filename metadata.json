@@ -1,0 +1,6 @@
+{
+  "name": "Apple Icon Showcase",
+  "description": "An elegant explorer for capturing and viewing high-resolution App Store icons inside native squircle containers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
